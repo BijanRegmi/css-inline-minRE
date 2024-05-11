@@ -1,0 +1,16 @@
+{
+  "name": "css-inline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles --config ./jest.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@css-inline/css-inline": "^0.14.1",
+    "jest": "^29.7.0"
+  }
+}
